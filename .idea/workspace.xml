@@ -1,15 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6e795cc-7b8c-4535-8b5c-6b75c982e226" name="Changes" comment="" />
+    <list default="true" id="b6e795cc-7b8c-4535-8b5c-6b75c982e226" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/aux_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/close_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ion_pump_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot_frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temperature_sensor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temperatures_frame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dsorllen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dsorllen/pyDAQ.git&quot;,
+    &quot;accountId&quot;: &quot;21d68a80-4a88-4b1c-8f2e-7383b9aa7052&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2ucZaiJ8OZlo2v3OUoSEvRgdle9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,8 +56,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.delta0.executor": "Run",
+    "Python.main_app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -39,5 +81,16 @@
       <updated>1742549887544</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
