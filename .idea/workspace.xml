@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6e795cc-7b8c-4535-8b5c-6b75c982e226" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/aux_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/close_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ion_pump_controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plot_frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temperature_sensor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temperatures_frame.py" afterDir="false" />
+    <list default="true" id="b6e795cc-7b8c-4535-8b5c-6b75c982e226" name="Changes" comment="Initial commit - 20250409">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/close_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/close_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_logging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyDAQ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_app_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_app_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temperature_sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/temperature_sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temperatures_frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/temperatures_frame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -58,9 +61,11 @@
   "keyToString": {
     "Python.delta0.executor": "Run",
     "Python.main_app.executor": "Run",
+    "Python.pyDAQ.executor": "Run",
+    "Python.temperatures_frame.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "20250410__after__method",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -80,6 +85,15 @@
       <option name="presentableId" value="Default" />
       <updated>1742549887544</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit - 20250409">
+      <option name="closed" value="true" />
+      <created>1744212910263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744212910263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +106,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Initial commit - 20250409" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit - 20250409" />
   </component>
 </project>
